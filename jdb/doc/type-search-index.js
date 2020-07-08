@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"jdb","l":"AddStudent"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"jdb","l":"DetailsEdit"},{"p":"jdb","l":"EditPanel"},{"p":"jdb","l":"JavaExample"},{"p":"jdb","l":"JScrollPaneExample"},{"p":"jdb","l":"Loginwindow"},{"p":"jdb","l":"ShowAttendence"},{"p":"jdb","l":"Studentreg"}]
